@@ -1,0 +1,30 @@
+body{
+  background: #f1f1f1;
+  font-family:"Roboto";
+}
+p{
+  text-align: center;
+}
+h1{
+  text-align: center;
+  background-color:#2CC9CD;
+  width: 100%;
+}
+#demo{
+  margin-lefts: 504px;
+}
+.btn{
+  border: none;
+  background-color:#35DF67;
+  color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  transition: .5s;
+  font-family: "Roboto";
+}
+.btn:active{
+  background-color: #2EA351;
+}
+.btn:hover{
+  box-shadow: 0px 0px 2px black;
+}
